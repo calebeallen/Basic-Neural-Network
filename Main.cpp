@@ -42,9 +42,6 @@ void createTrainingData(int seed){
 }
 
 
-
-//from https://stackoverflow.com/questions/8286668/how-to-read-mnist-data-in-c
-
 int main(){
 
     int option, seed, trainAmt;
