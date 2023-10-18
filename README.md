@@ -9,3 +9,5 @@ This model can be trained on many types of data. For simplicity, I generated tra
 The following image shows the network's average cost and performance after 30k training iterations. The network confidently and correctly classifies the input seed.
 
 ![NN perf](https://github.com/calebeallen/Basic-Neural-Network/assets/147087056/32274558-9fe6-4e01-9b7a-5c745da7729b)
+
+The dat file contains the weights and biases for a trained version of this model for simple testing.
